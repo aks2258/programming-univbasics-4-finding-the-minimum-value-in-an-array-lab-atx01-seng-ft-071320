@@ -1,6 +1,6 @@
 def find_min_value(array)
   # Add your solution here
-  min_value = 1000
+  min_value = 10000
 
   array.each do |element|
     if element < min_value == true 
